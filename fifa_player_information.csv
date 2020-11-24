@@ -1,0 +1,612 @@
+Name;Club;Age;Nationality;Height;Weight
+L. Messi;FC Barcelona;31;Argentina;170.18;72.121128
+L. Modrić;Real Madrid;32;Croatia;172.72;66.224432
+L. Suárez;FC Barcelona;31;Uruguay;182.88;86.18248
+Sergio Ramos;Real Madrid;32;Spain;182.88;82.100152
+J. Oblak;Atlético Madrid;25;Slovenia;187.96;87.089664
+T. Kroos;Real Madrid;28;Germany;182.88;76.203456
+D. Godín;Atlético Madrid;32;Uruguay;187.96;78.017824
+A. Griezmann;Atlético Madrid;27;France;175.26;73.028312
+M. ter Stegen;FC Barcelona;26;Germany;187.96;84.821704
+T. Courtois;Real Madrid;26;Belgium;198.12;96.161504
+Sergio Busquets;FC Barcelona;29;Spain;187.96;76.203456
+Casemiro;Real Madrid;26;Brazil;185.42;83.91452
+Isco;Real Madrid;26;Spain;175.26;78.925008
+Coutinho;FC Barcelona;26;Brazil;172.72;68.0388
+Marcelo;Real Madrid;30;Brazil;175.26;79.832192
+G. Bale;Real Madrid;28;Wales;185.42;82.100152
+S. Umtiti;FC Barcelona;24;France;182.88;74.84268
+K. Navas;Real Madrid;31;Costa Rica;185.42;79.832192
+Jordi Alba;FC Barcelona;29;Spain;170.18;68.0388
+I. Rakitić;FC Barcelona;30;Croatia;182.88;78.017824
+Piqué;FC Barcelona;31;Spain;193.04;84.821704
+R. Varane;Real Madrid;25;France;190.5;81.192968
+Marco Asensio;Real Madrid;22;Spain;182.88;76.203456
+Saúl;Atlético Madrid;23;Spain;182.88;77.11064
+Koke;Atlético Madrid;26;Spain;175.26;73.935496
+Parejo;Valencia CF;29;Spain;182.88;73.935496
+A. Vidal;FC Barcelona;31;Chile;180.34;74.84268
+Diego Costa;Atlético Madrid;29;Spain;187.96;86.18248
+K. Benzema;Real Madrid;30;France;185.42;81.192968
+Filipe Luís;Atlético Madrid;32;Brazil;182.88;73.935496
+J. Giménez;Atlético Madrid;23;Uruguay;185.42;79.832192
+William Carvalho;Real Betis;26;Portugal;187.96;83.007336
+Carvajal;Real Madrid;26;Spain;172.72;73.028312
+Illarramendi;Real Sociedad;28;Spain;177.8;74.84268
+Sergio Asenjo;Villarreal CF;29;Spain;187.96;87.089664
+E. Banega;Sevilla FC;30;Argentina;175.26;71.213944
+O. Dembélé;FC Barcelona;21;France;177.8;67.131616
+T. Lemar;Atlético Madrid;22;France;170.18;62.142104
+Q. Promes;Sevilla FC;26;Netherlands;175.26;72.121128
+Lucas Vázquez;Real Madrid;27;Spain;172.72;69.853168
+Gerard Moreno;Villarreal CF;26;Spain;180.34;77.11064
+Manu Trigueros;Villarreal CF;26;Spain;177.8;74.84268
+S. Savić;Atlético Madrid;27;Montenegro;187.96;78.925008
+Nacho Fernández;Real Madrid;28;Spain;180.34;76.203456
+Sergi Roberto;FC Barcelona;26;Spain;177.8;68.0388
+Rodrigo;Valencia CF;27;Spain;182.88;77.11064
+Neto;Valencia CF;28;Brazil;190.5;83.91452
+Adán;Atlético Madrid;31;Spain;190.5;92.079176
+Rodri;Atlético Madrid;22;Spain;190.5;82.100152
+Arthur;FC Barcelona;21;Brazil;170.18;73.028312
+Gelson Martins;Atlético Madrid;23;Portugal;172.72;72.121128
+Gonçalo Guedes;Valencia CF;21;Portugal;177.8;68.0388
+Malcom;FC Barcelona;21;Brazil;172.72;73.935496
+Pau López;Real Betis;23;Spain;187.96;77.11064
+L. Hernández;Atlético Madrid;22;France;182.88;76.203456
+C. Lenglet;FC Barcelona;23;France;185.42;81.192968
+Dani García;Athletic Club de Bilbao;28;Spain;180.34;79.832192
+T. Partey;Atlético Madrid;25;Ghana;185.42;77.11064
+F. Vázquez;Sevilla FC;29;Argentina;185.42;82.100152
+G. Kondogbia;Valencia CF;25;Central African Rep.;187.96;79.832192
+Rafinha;FC Barcelona;25;Brazil;175.26;71.213944
+Gabriel Paulista;Valencia CF;27;Brazil;187.96;78.925008
+J. Cillessen;FC Barcelona;29;Netherlands;185.42;83.007336
+W. Ben Yedder;Sevilla FC;27;France;170.18;68.0388
+Pablo Sarabia;Sevilla FC;26;Spain;175.26;69.853168
+Bartra;Real Betis;27;Spain;182.88;73.028312
+Willian José;Real Sociedad;26;Brazil;187.96;92.98636
+Víctor Ruiz;Villarreal CF;29;Spain;185.42;78.017824
+A. Guardado;Real Betis;31;Mexico;170.18;67.131616
+E. Garay;Valencia CF;31;Argentina;187.96;89.811216
+Aduriz;Athletic Club de Bilbao;37;Spain;182.88;78.017824
+Nélson Semedo;FC Barcelona;24;Portugal;177.8;67.131616
+Pablo Fornals;Villarreal CF;22;Spain;177.8;67.131616
+Dani Ceballos;Real Madrid;21;Spain;177.8;69.853168
+Morales;Levante UD;30;Spain;180.34;69.853168
+Williams;Athletic Club de Bilbao;24;Spain;185.42;78.925008
+A. Correa;Atlético Madrid;23;Argentina;170.18;68.0388
+C. Bacca;Villarreal CF;31;Colombia;180.34;77.11064
+Vitolo;Atlético Madrid;28;Spain;185.42;78.925008
+S. Kjær;Sevilla FC;29;Denmark;187.96;83.91452
+Pedro León;SD Eibar;31;Spain;182.88;73.028312
+D. Wass;Valencia CF;29;Denmark;180.34;73.935496
+Joaquín;Real Betis;36;Spain;177.8;74.84268
+Carlos Soler;Valencia CF;21;Spain;180.34;76.203456
+Odriozola;Real Madrid;22;Spain;175.26;66.224432
+Oyarzabal;Real Sociedad;21;Spain;180.34;78.017824
+G. Lo Celso;Real Betis;22;Argentina;175.26;69.853168
+Mariano;Real Madrid;24;Dominican Republic;180.34;76.203456
+G. Rulli;Real Sociedad;26;Argentina;187.96;83.91452
+Santi Mina;Valencia CF;22;Spain;180.34;77.11064
+Gayà;Valencia CF;23;Spain;172.72;66.224432
+Pacheco;Deportivo Alavés;26;Spain;185.42;81.192968
+Z. Feddal;Real Betis;28;Morocco;190.5;83.007336
+T. Inui;Real Betis;30;Japan;170.18;63.049288
+Portu;Girona FC;26;Spain;177.8;69.853168
+M. Batshuayi;Valencia CF;24;Belgium;185.42;78.017824
+T. Vaclík;Sevilla FC;29;Czech Republic;187.96;84.821704
+J. Murillo;Valencia CF;26;Colombia;182.88;78.017824
+Cristian Tello;Real Betis;26;Spain;177.8;64.863656
+L. Muriel;Sevilla FC;27;Colombia;177.8;78.925008
+Sergi Enrich;SD Eibar;28;Spain;180.34;77.11064
+Mario Gaspar;Villarreal CF;27;Spain;182.88;73.935496
+Canales;Real Betis;27;Spain;180.34;73.935496
+Muniain;Athletic Club de Bilbao;25;Spain;170.18;63.049288
+Susaeta;Athletic Club de Bilbao;30;Spain;177.8;68.0388
+R. Boudebouz;Real Betis;28;Algeria;177.8;73.935496
+C. Stuani;Girona FC;31;Uruguay;185.42;72.121128
+Bruno;Villarreal CF;34;Spain;182.88;73.028312
+Antunes;Getafe CF;31;Portugal;175.26;68.945984
+Beñat;Athletic Club de Bilbao;31;Spain;177.8;76.203456
+K. Gameiro;Valencia CF;31;France;172.72;69.853168
+Raúl García;Athletic Club de Bilbao;31;Spain;182.88;83.91452
+Juanfran;Atlético Madrid;33;Spain;180.34;71.213944
+Diego López;RCD Espanyol;36;Spain;195.58;88.904032
+Santi Cazorla;Villarreal CF;33;Spain;167.64;66.224432
+Jesús Navas;Sevilla FC;32;Spain;170.18;59.874144
+Moyá;Real Sociedad;34;Spain;187.96;83.007336
+André Silva;Sevilla FC;22;Portugal;185.42;78.925008
+M. Dmitrović;SD Eibar;26;Serbia;193.04;89.811216
+Marcos Llorente;Real Madrid;23;Spain;182.88;73.028312
+K. Toko-Ekambi;Villarreal CF;25;Cameroon;185.42;73.935496
+Granell;Girona FC;29;Spain;175.26;69.853168
+A. Sanabria;Real Betis;22;Paraguay;180.34;73.935496
+Roger;Levante UD;27;Spain;177.8;73.935496
+Denis Suárez;FC Barcelona;24;Spain;175.26;68.945984
+Iñigo Martínez;Athletic Club de Bilbao;27;Spain;182.88;77.11064
+Roque Mesa;Sevilla FC;29;Spain;170.18;73.935496
+Sergi Darder;RCD Espanyol;24;Spain;180.34;71.213944
+David López;RCD Espanyol;28;Spain;182.88;81.192968
+A. Mandi;Real Betis;26;Algeria;182.88;78.017824
+Campaña;Levante UD;25;Spain;177.8;69.853168
+Nolito;Sevilla FC;31;Spain;175.26;72.121128
+Ibai Gómez;Deportivo Alavés;28;Spain;177.8;72.121128
+Sergio León;Real Betis;29;Spain;177.8;73.028312
+Borja García;Girona FC;27;Spain;175.26;72.121128
+Jaume Costa;Villarreal CF;30;Spain;170.18;62.142104
+Escudero;Sevilla FC;28;Spain;175.26;72.121128
+Kike García;SD Eibar;28;Spain;185.42;78.925008
+De Marcos;Athletic Club de Bilbao;29;Spain;182.88;79.832192
+F. Coquelin;Valencia CF;27;France;177.8;73.935496
+N. Kalinić;Atlético Madrid;30;Croatia;187.96;79.832192
+G. Mercado;Sevilla FC;31;Argentina;180.34;83.007336
+Sidnei;Real Betis;28;Brazil;187.96;87.996848
+Kiko Casilla;Real Madrid;31;Spain;190.5;86.18248
+Ángel;Getafe CF;31;Spain;172.72;68.0388
+Charles;SD Eibar;34;Brazil;177.8;74.84268
+Loren;Real Betis;24;Spain;187.96;82.100152
+Vallejo;Real Madrid;21;Spain;182.88;78.925008
+Joan Jordán;SD Eibar;23;Spain;182.88;73.935496
+David Soria;Getafe CF;25;Spain;193.04;84.821704
+D. Djené;Getafe CF;26;Togo;175.26;71.213944
+Capa;Athletic Club de Bilbao;26;Spain;175.26;73.935496
+J. Mojica;Girona FC;25;Colombia;185.42;73.028312
+Pere Pons;Girona FC;25;Spain;177.8;69.853168
+A. Januzaj;Real Sociedad;23;Belgium;185.42;76.203456
+Leo Baptistao;RCD Espanyol;25;Brazil;180.34;72.121128
+S. Arias;Atlético Madrid;26;Colombia;177.8;72.121128
+Álvaro;Villarreal CF;28;Spain;182.88;74.84268
+Arbilla;SD Eibar;31;Spain;177.8;76.203456
+J. Guidetti;Deportivo Alavés;26;Sweden;185.42;78.925008
+Sergi Gómez;Sevilla FC;26;Spain;185.42;77.11064
+Granero;RCD Espanyol;30;Spain;180.34;78.017824
+Javi García;Real Betis;31;Spain;185.42;82.100152
+Daniel Carriço;Sevilla FC;29;Portugal;180.34;79.832192
+Manu García;Deportivo Alavés;32;Spain;182.88;73.935496
+Iván Ramis;SD Eibar;33;Spain;187.96;82.100152
+Sergio García;RCD Espanyol;35;Spain;175.26;72.121128
+Javi Fuego;Villarreal CF;34;Spain;182.88;73.935496
+Bruno_28;Getafe CF;28;Spain;185.42;86.18248
+Rubén Peña;SD Eibar;26;Spain;170.18;64.863656
+Mikel San José;Athletic Club de Bilbao;29;Spain;187.96;78.925008
+Álex Remiro;Athletic Club de Bilbao;23;Spain;190.5;83.007336
+D. Torres;Deportivo Alavés;28;Colombia;182.88;81.192968
+Y. Bounou;Girona FC;27;Morocco;193.04;78.017824
+J. Calleri;Deportivo Alavés;24;Argentina;180.34;77.11064
+Victor Sánchez;RCD Espanyol;30;Spain;175.26;72.121128
+D. Suárez;Getafe CF;30;Uruguay;172.72;68.0388
+P. Diop;SD Eibar;32;Senegal;177.8;77.11064
+Markel Bergara;Getafe CF;32;Spain;180.34;78.017824
+Munir;FC Barcelona;22;Spain;175.26;68.945984
+H. Pérez;RCD Espanyol;29;Paraguay;180.34;71.213944
+Rúben Vezo;Valencia CF;24;Portugal;182.88;79.832192
+Jorge Molina;Getafe CF;36;Spain;187.96;72.121128
+Yeray;Athletic Club de Bilbao;23;Spain;182.88;78.017824
+Roberto;RCD Espanyol;32;Spain;193.04;93.893544
+T. Vermaelen;FC Barcelona;32;Belgium;182.88;79.832192
+Diego Llorente;Real Sociedad;24;Spain;185.42;74.84268
+L. Chichizola;Getafe CF;28;Argentina;185.42;82.100152
+D. Cheryshev;Valencia CF;27;Russia;177.8;73.935496
+M. Layún;Villarreal CF;30;Mexico;180.34;76.203456
+B. Espinosa;Girona FC;28;Colombia;193.04;83.91452
+A. Szymanowski;CD Leganés;29;Argentina;175.26;64.863656
+Laguardia;Deportivo Alavés;28;Spain;185.42;74.84268
+M. Diakhaby;Valencia CF;21;France;193.04;78.017824
+Borja Iglesias;RCD Espanyol;25;Spain;187.96;86.18248
+G. Shibasaki;Getafe CF;26;Japan;175.26;62.142104
+E. Bardhi;Levante UD;22;FYR Macedonia;172.72;63.956472
+Cote;SD Eibar;28;Spain;182.88;77.11064
+Rubén Castro;UD Las Palmas;37;Spain;170.18;68.0388
+Vinícius Júnior;Real Madrid;17;Brazil;175.26;73.028312
+Juanpe;Girona FC;27;Spain;190.5;84.821704
+T. Hernández;Real Sociedad;20;France;182.88;82.100152
+C. Piccini;Valencia CF;25;Italy;187.96;78.925008
+Yuri Berchiche;Athletic Club de Bilbao;28;Spain;180.34;79.832192
+F. Cartabia;Deportivo de La Coruña;25;Argentina;170.18;64.863656
+Jony;Deportivo Alavés;26;Spain;177.8;76.203456
+Tomás Pina;Deportivo Alavés;30;Spain;185.42;74.84268
+O. Trejo;Rayo Vallecano;30;Argentina;180.34;78.925008
+F. Orellana;SD Eibar;32;Chile;167.64;63.956472
+R. Funes Mori;Villarreal CF;27;Argentina;185.42;78.925008
+Aleix Vidal;Sevilla FC;28;Spain;177.8;69.853168
+G. Escalante;SD Eibar;25;Argentina;182.88;74.84268
+D. Zurutuza;Real Sociedad;31;France;185.42;78.925008
+Juanmi;Real Sociedad;25;Spain;172.72;68.945984
+Iván Cuéllar;CD Leganés;34;Spain;187.96;76.203456
+S. Doumbia;Girona FC;30;Ivory Coast;177.8;71.213944
+E. Boateng;Levante UD;22;Ghana;175.26;62.142104
+Junior Firpo;Real Betis;21;Spain;182.88;74.84268
+Mario Hermoso;RCD Espanyol;23;Spain;182.88;73.935496
+Vicente Gómez;Deportivo de La Coruña;29;Spain;187.96;78.017824
+Embarba;Rayo Vallecano;26;Spain;172.72;66.224432
+Jordi Amat;Rayo Vallecano;26;Spain;185.42;83.007336
+Carles Planas;Girona FC;27;Spain;172.72;76.203456
+Rubén Duarte;Deportivo Alavés;22;Spain;180.34;74.84268
+G. Kakuta;Rayo Vallecano;27;DR Congo;172.72;63.956472
+N. Vukčević;Levante UD;26;Montenegro;182.88;76.203456
+Mata;Getafe CF;29;Spain;187.96;78.017824
+M. Barbosa;Villarreal CF;33;Argentina;187.96;78.925008
+Iván Alejo;Getafe CF;23;Spain;182.88;76.203456
+Andrés Fernández;Villarreal CF;31;Spain;187.96;82.100152
+Eraso;CD Leganés;28;Spain;180.34;71.213944
+N. Sansone;Villarreal CF;26;Italy;175.26;68.0388
+De Tomás;Rayo Vallecano;23;Spain;180.34;72.121128
+A. Ndiaye Diedhiou;Getafe CF;21;Senegal;172.72;63.049288
+Recio;CD Leganés;27;Spain;182.88;73.935496
+Marc Roca;RCD Espanyol;21;Spain;182.88;73.935496
+Aritz Elustondo;Real Sociedad;24;Spain;180.34;71.213944
+Aday Benítez;Girona FC;30;Spain;177.8;74.84268
+Jaume;Valencia CF;27;Spain;185.42;73.028312
+J. Gnagnon;Sevilla FC;21;France;182.88;88.904032
+Mosquera;Deportivo de La Coruña;30;Spain;182.88;76.203456
+Rodrigo Ely;Deportivo Alavés;24;Brazil;187.96;83.007336
+Barragán;Real Betis;31;Spain;182.88;76.203456
+Toño García;Levante UD;28;Spain;177.8;68.945984
+Raúl Navas;Real Sociedad;30;Spain;185.42;83.91452
+M. Arambarri;Getafe CF;22;Uruguay;175.26;76.203456
+N. El Zhar;CD Leganés;31;Morocco;170.18;66.224432
+Rubén Sobrino;Deportivo Alavés;26;Spain;185.42;73.028312
+A. Lunin;CD Leganés;19;Ukraine;190.5;79.832192
+M. Simon;Levante UD;22;Nigeria;167.64;68.945984
+Paulo Oliveira;SD Eibar;27;Portugal;187.96;82.100152
+Francis;Real Betis;22;Spain;175.26;78.017824
+Unai Núñez;Athletic Club de Bilbao;21;Spain;185.42;81.192968
+P. De Blasis;SD Eibar;30;Argentina;165.1;64.863656
+G. Maripán;Deportivo Alavés;24;Chile;193.04;83.007336
+Fran Rico;Granada CF;30;Spain;177.8;68.0388
+Alcalá;Girona FC;29;Spain;195.58;92.98636
+Balenziaga;Athletic Club de Bilbao;30;Spain;177.8;76.203456
+Borja Mayoral;Levante UD;21;Spain;182.88;73.935496
+D. Bonera;Villarreal CF;37;Italy;182.88;83.91452
+Javi López;RCD Espanyol;32;Spain;180.34;76.203456
+O. Duarte;RCD Espanyol;29;Costa Rica;185.42;81.192968
+G. Carrillo;CD Leganés;27;Argentina;190.5;87.089664
+E. Cabaco;Levante UD;23;Uruguay;185.42;74.84268
+Portillo;Getafe CF;28;Spain;170.18;59.874144
+Gálvez;Rayo Vallecano;29;Spain;187.96;78.925008
+Jason;Levante UD;23;Spain;177.8;64.863656
+S. Cristóforo;Getafe CF;24;Uruguay;175.26;68.0388
+Naldo;RCD Espanyol;29;Brazil;187.96;79.832192
+Iraizoz;Girona FC;37;Spain;190.5;88.904032
+Joel Robles;Real Betis;28;Spain;195.58;89.811216
+Burgui;Deportivo Alavés;24;Spain;182.88;74.84268
+M. Gonalons;Sevilla FC;29;France;187.96;76.203456
+Bustinza;CD Leganés;26;Spain;175.26;73.935496
+Oier;Levante UD;28;Spain;190.5;91.171992
+Postigo;Levante UD;29;Spain;185.42;78.017824
+D. Rolán;CD Leganés;25;Uruguay;177.8;69.853168
+Chema Rodríguez;Levante UD;26;Spain;187.96;79.832192
+Sandro;Real Sociedad;22;Spain;175.26;71.213944
+Córdoba;Athletic Club de Bilbao;21;Spain;180.34;73.028312
+Ximo Navarro;Deportivo Alavés;28;Spain;177.8;71.213944
+Timor;UD Las Palmas;28;Spain;185.42;79.832192
+Martín;Deportivo Alavés;22;Spain;177.8;72.121128
+Sabin Merino;CD Leganés;26;Spain;187.96;74.84268
+Merino;Real Sociedad;22;Spain;185.42;83.007336
+Serantes;CD Leganés;28;Spain;182.88;72.121128
+Borja Valle;Deportivo de La Coruña;25;Spain;177.8;72.121128
+M. Wakaso;Deportivo Alavés;27;Ghana;170.18;72.121128
+Borja Bastón;Deportivo Alavés;25;Spain;190.5;82.100152
+I. Amadou;Sevilla FC;25;France;182.88;81.192968
+Unai López;Athletic Club de Bilbao;22;Spain;170.18;69.853168
+Mikel Rico;Athletic Club de Bilbao;33;Spain;177.8;74.84268
+Rochina;Levante UD;27;Spain;182.88;76.203456
+Rubén Pérez;CD Leganés;29;Spain;177.8;73.028312
+Pedraza;Villarreal CF;22;Spain;182.88;73.028312
+Zaldúa;Real Sociedad;26;Spain;175.26;69.853168
+Rubén Pardo;Real Sociedad;25;Spain;180.34;68.945984
+Carles Gil;Deportivo de La Coruña;25;Spain;170.18;64.863656
+Lekue;Athletic Club de Bilbao;25;Spain;180.34;72.121128
+Sergio Álvarez;SD Eibar;26;Spain;182.88;73.935496
+Sergi Guardiola;Getafe CF;27;Spain;187.96;77.11064
+Medrán;Rayo Vallecano;24;Spain;175.26;71.213944
+M. Krohn-Dehli;Deportivo de La Coruña;35;Denmark;170.18;68.0388
+Zubeldia;Real Sociedad;21;Spain;180.34;78.925008
+E. Velázquez;Rayo Vallecano;24;Uruguay;185.42;78.925008
+J. Silva;CD Leganés;24;Argentina;180.34;74.84268
+U. Račić;Valencia CF;20;Serbia;193.04;81.192968
+P. Roberts;Girona FC;21;England;170.18;66.224432
+G. Imbula;Rayo Vallecano;25;France;185.42;77.11064
+Dani Raba;Villarreal CF;22;Spain;182.88;76.203456
+Raúl Fernández;UD Las Palmas;30;Spain;195.58;92.079176
+Alberto;Rayo Vallecano;33;Spain;182.88;77.11064
+Róber;Levante UD;23;Spain;182.88;73.935496
+Lato;Valencia CF;20;Spain;170.18;63.956472
+N. Maksimović;Getafe CF;23;Serbia;182.88;74.84268
+Dídac Vilà;RCD Espanyol;29;Spain;185.42;73.935496
+S. Prcić;Levante UD;24;Bosnia Herzegovina;180.34;73.028312
+R. Rosales;RCD Espanyol;29;Venezuela;175.26;69.853168
+Pozo;Rayo Vallecano;22;Spain;170.18;64.863656
+Álvaro García;Rayo Vallecano;25;Spain;167.64;58.96696
+Melendo;RCD Espanyol;20;Spain;167.64;63.049288
+Ramalho;Girona FC;25;Spain;180.34;68.0388
+Kévin Rodrigues;Real Sociedad;24;Portugal;170.18;69.853168
+Bigas;SD Eibar;27;Spain;180.34;78.017824
+Arana;Sevilla FC;21;Brazil;175.26;68.0388
+Juan Cala;UD Las Palmas;28;Spain;185.42;86.18248
+A. Nyom;CD Leganés;30;Cameroon;187.96;81.192968
+Tana;UD Las Palmas;27;Spain;170.18;73.028312
+A. Lozano;Girona FC;25;Honduras;185.42;78.925008
+Bebé;Rayo Vallecano;27;Portugal;190.5;83.007336
+D. Brasanac;Deportivo Alavés;26;Serbia;177.8;73.028312
+Álex Moreno;Rayo Vallecano;25;Spain;177.8;68.0388
+F. Valverde;Real Madrid;19;Uruguay;182.88;78.017824
+Juanfran_29;CD Leganés;29;Spain;180.34;68.945984
+De la Bella;UD Las Palmas;32;Spain;182.88;78.925008
+Luna;Levante UD;27;Spain;177.8;68.0388
+L. Advíncula;Rayo Vallecano;28;Peru;177.8;79.832192
+Marc Muniesa;Girona FC;26;Spain;177.8;72.121128
+S. Araujo;UD Las Palmas;26;Argentina;180.34;78.925008
+Alex Bergantiños;Deportivo de La Coruña;33;Spain;175.26;69.853168
+M. Iturra;Villarreal CF;34;Chile;175.26;73.028312
+A. Ba;Rayo Vallecano;27;Senegal;198.12;78.925008
+M. Santos;CD Leganés;25;Uruguay;175.26;66.224432
+Ferrán Torres;Valencia CF;18;Spain;180.34;72.121128
+Ignasi Miquel;Getafe CF;25;Spain;187.96;79.832192
+Raul García;CD Leganés;29;Spain;175.26;73.935496
+C. Doukouré;Levante UD;25;Ivory Coast;180.34;82.100152
+Bóveda;Deportivo de La Coruña;29;Spain;180.34;77.11064
+Riesgo;SD Eibar;34;Spain;185.42;76.203456
+Pere Milla;SD Eibar;25;Spain;177.8;69.853168
+C. Santos;Deportivo de La Coruña;30;Venezuela;182.88;69.853168
+Douglas Luiz;Girona FC;20;Brazil;177.8;69.853168
+Sergi Samper;FC Barcelona;23;Spain;182.88;73.028312
+M. Mantovani;UD Las Palmas;33;Argentina;182.88;78.017824
+A. Ramos;Granada CF;32;Colombia;185.42;78.017824
+Hervías;SD Eibar;25;Spain;175.26;68.0388
+S. Cáseres;Villarreal CF;21;Argentina;177.8;74.84268
+Vesga;CD Leganés;25;Spain;190.5;83.91452
+Rober Ibáñez;Getafe CF;25;Spain;177.8;71.213944
+D. Siovas;CD Leganés;29;Greece;193.04;83.007336
+K. Omeruo;CD Leganés;24;Nigeria;185.42;81.192968
+Jon Bautista;Real Sociedad;22;Spain;180.34;72.121128
+N. Aguirre;Granada CF;27;Argentina;180.34;78.017824
+Aitor;Levante UD;27;Spain;182.88;78.017824
+L. Cabrera;Getafe CF;26;Uruguay;187.96;79.832192
+Pedro Sánchez;Deportivo de La Coruña;31;Spain;175.26;73.935496
+Carlos Fernández;Deportivo de La Coruña;22;Spain;185.42;72.121128
+David García;UD Las Palmas;36;Spain;182.88;79.832192
+Y. En-Nesyri;CD Leganés;21;Morocco;193.04;78.017824
+Adrián Marín;Deportivo Alavés;21;Spain;185.42;78.017824
+Aleñá;FC Barcelona;20;Spain;180.34;73.028312
+Quique;Deportivo de La Coruña;28;Spain;175.26;67.131616
+Dani Giménez;Deportivo de La Coruña;34;Spain;182.88;77.11064
+Unai Simón;Athletic Club de Bilbao;21;Spain;190.5;88.904032
+Tito;Rayo Vallecano;32;Spain;175.26;63.956472
+Vigaray;Deportivo Alavés;23;Spain;182.88;69.853168
+David Simón;Deportivo de La Coruña;28;Spain;175.26;68.0388
+Elustondo;Rayo Vallecano;31;Spain;182.88;78.925008
+Sivera;Deportivo Alavés;21;Spain;182.88;74.84268
+Jordi Calavera;SD Eibar;22;Spain;182.88;73.935496
+Luca Sangalli;Real Sociedad;23;Spain;167.64;73.935496
+Vadillo;Granada CF;23;Spain;180.34;69.853168
+Pedro López;Levante UD;34;Spain;175.26;72.121128
+Borja Lasso;Sevilla FC;24;Spain;185.42;72.121128
+Víctor Díaz;Granada CF;30;Spain;182.88;72.121128
+Maikel Mesa;UD Las Palmas;27;Spain;187.96;78.925008
+G. Peñalba;UD Las Palmas;33;Argentina;193.04;89.811216
+E. Muñoz;CD Leganés;27;Argentina;185.42;78.017824
+Domingos Duarte;Deportivo de La Coruña;23;Portugal;190.5;78.017824
+Cucurella;SD Eibar;19;Spain;172.72;68.945984
+Dani Castellano;UD Las Palmas;30;Spain;180.34;69.853168
+Javi Castellano;UD Las Palmas;30;Spain;182.88;73.028312
+S. Dimitrievski;Rayo Vallecano;24;FYR Macedonia;187.96;81.192968
+Álex Martínez;Granada CF;27;Spain;175.26;67.131616
+Gumbau;CD Leganés;23;Spain;187.96;77.11064
+Samu García;Levante UD;28;Spain;177.8;73.028312
+D. Foulquier;Getafe CF;25;France;182.88;78.017824
+Manu Morlanes;Villarreal CF;19;Spain;177.8;74.84268
+Alex Alegría;Rayo Vallecano;25;Spain;187.96;82.100152
+Dorado;Rayo Vallecano;35;Spain;180.34;69.853168
+Nauzet;UD Las Palmas;33;Spain;190.5;87.089664
+Álvaro Lemos;UD Las Palmas;25;Spain;175.26;76.203456
+Deivid;UD Las Palmas;29;Spain;187.96;74.84268
+S. Dubarbier;Deportivo de La Coruña;32;Argentina;177.8;77.11064
+Fidel;UD Las Palmas;28;Spain;180.34;73.935496
+Santi Comesaña;Rayo Vallecano;21;Spain;182.88;73.028312
+C. Ganea;Athletic Club de Bilbao;26;Romania;175.26;73.028312
+Gerard Valentín;Deportivo de La Coruña;24;Spain;175.26;73.935496
+R. Dwamena;Levante UD;22;Ghana;185.42;81.192968
+Fede Vico;Granada CF;23;Spain;167.64;63.956472
+Montoro;Granada CF;30;Spain;180.34;72.121128
+D. Blum;UD Las Palmas;27;Germany;182.88;83.007336
+Saúl_23;Deportivo de La Coruña;23;Spain;182.88;71.213944
+Pablo Marí;Deportivo de La Coruña;24;Spain;190.5;87.089664
+Kangin Lee;Valencia CF;17;Korea Republic;172.72;60.781328
+D. Moreno;Deportivo de La Coruña;26;Colombia;177.8;71.213944
+Javi Guerra;Rayo Vallecano;36;Spain;177.8;76.203456
+M. Dos Santos;CD Leganés;28;Argentina;182.88;76.203456
+Ruiz de Galarreta;UD Las Palmas;24;Spain;175.26;68.945984
+Marc Cardona;SD Eibar;22;Spain;182.88;68.0388
+José Arnáiz;CD Leganés;23;Spain;175.26;69.853168
+Momo;UD Las Palmas;35;Spain;177.8;68.0388
+Fede;Granada CF;21;Spain;175.26;68.0388
+Alberto Martín;Granada CF;29;Spain;177.8;73.028312
+Rafa Mir;UD Las Palmas;21;Spain;190.5;86.18248
+Aleix García;Girona FC;21;Spain;172.72;68.0388
+Edu Expósito;Deportivo de La Coruña;21;Spain;177.8;67.131616
+Rodri_28;Granada CF;28;Spain;175.26;73.935496
+Germán;Granada CF;31;Spain;187.96;82.100152
+M. Wagué;FC Barcelona;19;Senegal;177.8;69.853168
+Pedro Porro;Girona FC;18;Spain;175.26;69.853168
+Riqui Puig;FC Barcelona;18;Spain;170.18;55.791816
+Puado;RCD Espanyol;20;Spain;177.8;68.945984
+A. Sadiku;Levante UD;27;Albania;185.42;79.832192
+Adrián Ortolá;Deportivo de La Coruña;24;Spain;182.88;72.121128
+Rui Silva;Granada CF;24;Portugal;190.5;91.171992
+Adrián Diéguez;Deportivo Alavés;22;Spain;187.96;68.945984
+Diego Caballo;Deportivo de La Coruña;24;Spain;172.72;68.945984
+Villalibre;Athletic Club de Bilbao;20;Spain;182.88;88.904032
+A. Bangoura;Rayo Vallecano;26;Guinea;175.26;72.121128
+M. Somma;Deportivo de La Coruña;23;Italy;182.88;77.11064
+Koke Vegas;Levante UD;22;Spain;187.96;87.996848
+Merquelanz;Real Sociedad;23;Spain;175.26;72.121128
+Reguilón;Real Madrid;21;Spain;177.8;68.0388
+Soriano;Sevilla FC;20;Spain;185.42;83.007336
+Pejiño;Sevilla FC;21;Spain;175.26;67.131616
+David Concha;Real Sociedad;21;Spain;172.72;60.781328
+Gorosabel;Real Sociedad;21;Spain;175.26;73.028312
+T. Pekhart;UD Las Palmas;29;Czech Republic;193.04;91.171992
+Óscar;CD Leganés;20;Spain;175.26;68.0388
+José Suárez;Girona FC;22;Spain;187.96;79.832192
+R. Le Normand;Real Sociedad;21;France;187.96;79.832192
+Guruzeta;Athletic Club de Bilbao;21;Spain;187.96;77.11064
+Quini;Granada CF;28;Spain;177.8;73.935496
+Cristian Rivero;Valencia CF;20;Spain;187.96;74.84268
+Dani Ojeda;CD Leganés;23;Spain;180.34;74.84268
+Lluis López;RCD Espanyol;21;Spain;182.88;78.925008
+Curro Sánchez;Sevilla FC;22;Spain;175.26;68.0388
+Akieme;Rayo Vallecano;20;Spain;175.26;64.863656
+Puertas;Granada CF;26;Spain;182.88;77.11064
+H. Sacko;UD Las Palmas;24;Mali;182.88;82.100152
+Nolaskoain;Athletic Club de Bilbao;19;Spain;185.42;79.832192
+Zubiaurre;Real Sociedad;21;Spain;187.96;82.100152
+Paik Seung Ho;Girona FC;21;Korea Republic;180.34;68.0388
+Alex López;RCD Espanyol;21;Spain;175.26;68.0388
+Oriol Busquets;FC Barcelona;19;Spain;185.42;77.11064
+Pipa;RCD Espanyol;20;Spain;175.26;68.0388
+Abel Ruiz;FC Barcelona;18;Spain;182.88;73.028312
+Iñigo Muñoz;Athletic Club de Bilbao;21;Spain;167.64;59.874144
+Rubén Yáñez;Getafe CF;24;Spain;190.5;84.821704
+Sancet;Athletic Club de Bilbao;18;Spain;187.96;73.028312
+Bicho;Deportivo de La Coruña;22;Spain;172.72;63.049288
+Rodri Tarín;CD Leganés;21;Spain;182.88;79.832192
+Javi Sánchez;Real Madrid;21;Spain;187.96;77.11064
+Miranda;FC Barcelona;18;Spain;185.42;76.203456
+Carlos Blanco;Villarreal CF;22;Spain;187.96;69.853168
+Miguelón;Villarreal CF;22;Spain;175.26;69.853168
+P. Sisniega;Real Sociedad;22;Mexico;193.04;78.925008
+Ander Guevara;Real Sociedad;20;Spain;180.34;73.028312
+Iñigo Vicente;Athletic Club de Bilbao;20;Spain;177.8;67.131616
+Cristo González;Real Madrid;20;Spain;177.8;73.935496
+W. Kaptoum;Real Betis;21;Cameroon;170.18;72.121128
+Joni Montiel;Deportivo de La Coruña;19;Spain;172.72;67.131616
+Arturo Molina;Levante UD;22;Spain;182.88;74.84268
+Alex Pozo;Granada CF;19;Spain;172.72;62.142104
+Berrocal;Sevilla FC;18;Spain;182.88;72.121128
+José Lara;Sevilla FC;18;Spain;167.64;59.874144
+Óscar Pinchi;Atlético Madrid;22;Spain;172.72;62.142104
+Álex Cobo;Deportivo de La Coruña;22;Spain;182.88;78.017824
+Víctor;Deportivo de La Coruña;21;Spain;180.34;77.11064
+Avilés;CD Leganés;20;Spain;180.34;74.84268
+Edu Espiau;UD Las Palmas;23;Spain;185.42;78.925008
+Guridi;Real Sociedad;23;Spain;177.8;63.956472
+Fabio González;UD Las Palmas;21;Spain;175.26;64.863656
+F. Feuillassier;Real Madrid;20;Argentina;172.72;68.945984
+Fidalgo;Real Madrid;21;Spain;175.26;68.0388
+P. Twumasi;Deportivo Alavés;24;Ghana;175.26;67.131616
+Damià;RCD Espanyol;22;Spain;177.8;73.935496
+Chumi;FC Barcelona;19;Spain;185.42;78.017824
+S. Chukwueze;Villarreal CF;19;Nigeria;172.72;69.853168
+Jorge Cuenca;FC Barcelona;18;Spain;187.96;76.203456
+Adri Castellano;Granada CF;24;Spain;180.34;73.028312
+Markel Areitio;SD Eibar;21;Spain;180.34;68.945984
+Diego Parras;UD Las Palmas;22;Spain;177.8;69.853168
+Javi Jiménez;Valencia CF;21;Spain;182.88;73.935496
+Fran Manzanara;Levante UD;21;Spain;182.88;72.121128
+K. Soni;Girona FC;20;Cameroon;182.88;76.203456
+E. Lomotey;Villarreal CF;20;Ghana;190.5;78.925008
+Martínez;Granada CF;25;Spain;187.96;79.832192
+Pablo Vázquez;Granada CF;23;Spain;185.42;82.100152
+Julen López;SD Eibar;22;Spain;190.5;83.91452
+Sergio López;Real Madrid;19;Spain;177.8;66.224432
+Álex Centelles;Valencia CF;18;Spain;185.42;67.131616
+Guillem Jaime;FC Barcelona;19;Spain;177.8;69.853168
+José González;Granada CF;22;Spain;182.88;74.84268
+Fran García;Real Madrid;18;Spain;170.18;63.049288
+Xesc Regis;SD Eibar;21;Spain;180.34;76.203456
+Jean Carlos;Granada CF;22;Brazil;185.42;79.832192
+Pascu;Valencia CF;18;Spain;180.34;67.131616
+Edu Frias;RCD Espanyol;19;Spain;180.34;78.925008
+Roberto López;Real Sociedad;18;Spain;170.18;64.863656
+Jauregi;Levante UD;21;Spain;182.88;81.192968
+José Mena;Sevilla FC;20;Spain;175.26;63.956472
+Genís;Levante UD;21;Spain;175.26;67.131616
+Borja Garcés;Atlético Madrid;18;Spain;177.8;71.213944
+Montero;Atlético Madrid;19;Spain;180.34;74.84268
+Manu Hernando;Real Madrid;19;Spain;180.34;77.11064
+Jesús Areso;Athletic Club de Bilbao;18;Spain;182.88;69.853168
+Dani Cárdenas;Levante UD;21;Spain;185.42;79.832192
+Álex Domínguez;Deportivo Alavés;19;Spain;187.96;79.832192
+Ricardo Campos;Valencia CF;18;Portugal;177.8;66.224432
+Joaquín_19;Atlético Madrid;19;Spain;172.72;68.0388
+Carlos Doncel;RCD Espanyol;21;Spain;170.18;63.956472
+Josemi;UD Las Palmas;20;Spain;172.72;64.863656
+Jaime Sierra;CD Leganés;20;Spain;175.26;63.049288
+Tachi;Atlético Madrid;20;Spain;182.88;74.84268
+Ezkieta;FC Barcelona;21;Spain;193.04;78.017824
+Dani Gómez;Real Madrid;19;Spain;177.8;69.853168
+Fornos;Deportivo de La Coruña;21;Spain;180.34;68.945984
+Carlos Isaac;Atlético Madrid;20;Spain;182.88;73.935496
+Sito;Valencia CF;21;Spain;180.34;69.853168
+Juan Delgado;Levante UD;24;Spain;182.88;78.017824
+Joan Monterde;Levante UD;20;Spain;167.64;59.874144
+Uxío;Deportivo de La Coruña;27;Spain;187.96;74.84268
+Toni Moya;Atlético Madrid;20;Spain;180.34;74.84268
+Mario González;Villarreal CF;22;Spain;182.88;68.0388
+Isi;Granada CF;22;Spain;170.18;60.781328
+L. García;Sevilla FC;20;Colombia;182.88;78.017824
+David Alba;Getafe CF;19;Spain;180.34;77.11064
+Quique Cebriá;SD Eibar;23;Spain;182.88;69.853168
+Emilio Bernad;Valencia CF;18;Spain;182.88;68.945984
+M. Hongla;Granada CF;20;Cameroon;182.88;77.11064
+Rubén Mesa;Villarreal CF;26;Spain;182.88;74.84268
+A. Solano;Atlético Madrid;20;Colombia;175.26;69.853168
+Sillero;Athletic Club de Bilbao;20;Spain;175.26;78.925008
+Hugo Duro;Getafe CF;18;Spain;180.34;74.84268
+Kike;Rayo Vallecano;18;Spain;190.5;76.203456
+Josep Martínez;UD Las Palmas;20;Spain;190.5;79.832192
+Perera;Deportivo Alavés;21;Spain;185.42;76.203456
+A. Dávila;Real Sociedad;19;Uruguay;177.8;72.121128
+Quinti;Villarreal CF;21;Spain;182.88;73.028312
+L. Zidane;Real Madrid;20;France;182.88;77.11064
+Álex Blanco;Valencia CF;19;Spain;175.26;69.853168
+Fran Serrano;Granada CF;23;Spain;193.04;84.821704
+Aarón;Granada CF;22;Spain;182.88;72.121128
+Alberto Redondo;Getafe CF;21;Spain;182.88;67.131616
+Miguel Ángel;Getafe CF;20;Spain;190.5;86.18248
+Meseguer;Rayo Vallecano;18;Spain;175.26;69.853168
+A. Lupu;Deportivo Alavés;20;Romania;172.72;69.853168
+Eliseo Falcón;Granada CF;21;Spain;182.88;79.832192
+Guillamón;Valencia CF;18;Spain;177.8;73.028312
+Yeremi Valerón;UD Las Palmas;21;Spain;182.88;74.84268
+J. Victoria;Granada CF;22;Colombia;165.1;69.853168
+Angel Sánchez;RCD Espanyol;20;Spain;177.8;69.853168
+Adrià Pedrosa;RCD Espanyol;20;Spain;175.26;68.945984
+Álex Dos Santos;Atlético Madrid;19;Brazil;185.42;78.017824
+Ángel López;SD Eibar;21;Spain;180.34;74.84268
+Iñaki Peña;FC Barcelona;19;Spain;182.88;78.017824
+Álex Mozo;CD Leganés;23;Spain;165.1;62.142104
+Robert;Real Betis;17;Spain;177.8;73.935496
+Iván;Real Betis;21;Spain;180.34;74.84268
+Darío Poveda;Atlético Madrid;21;Spain;185.42;74.84268
+Roger Riera;Villarreal CF;23;Spain;187.96;76.203456
+Rubén Sánchez;Granada CF;23;Spain;185.42;78.017824
+Genaro;Sevilla FC;20;Spain;182.88;71.213944
+Manu Navarro;Rayo Vallecano;17;Spain;180.34;74.84268
+Sergio Tienza;Real Betis;21;Spain;182.88;78.017824
+Kike PIna;SD Eibar;21;Spain;165.1;62.142104
+Lombo;CD Leganés;19;Spain;182.88;74.84268
+Algobia;Rayo Vallecano;19;Spain;180.34;74.84268
+Leja;Granada CF;23;Spain;182.88;77.11064
+Sergio Moreno;Rayo Vallecano;19;Spain;180.34;74.84268
+Daniel Rebollo;Real Betis;18;Spain;180.34;74.84268
+Cristian Rodríguez;Atlético Madrid;22;Spain;180.34;69.853168
+P. Mbodji;Getafe CF;20;Senegal;182.88;77.11064
+Sergi Álamo;Girona FC;20;Spain;190.5;79.832192
+Oleaga;Athletic Club de Bilbao;21;Spain;198.12;87.089664
+Raúl Sánchez;CD Leganés;20;Spain;187.96;73.935496
+Obama;Atlético Madrid;18;Spain;170.18;69.853168
+Mollejo;Atlético Madrid;17;Spain;175.26;63.956472
+Valery;Girona FC;18;Spain;180.34;74.84268
+Martín_18;Rayo Vallecano;18;Spain;180.34;74.84268
+Javi Rubio;Rayo Vallecano;19;Spain;180.34;74.84268
+Altamirano;Real Betis;21;Spain;177.8;73.028312
+N. Djouahra;Real Sociedad;18;France;172.72;66.224432
+Y. Andzouana;Girona FC;21;Congo;177.8;68.945984
+Morro;Rayo Vallecano;17;Spain;193.04;78.017824
+Pol Lozano;RCD Espanyol;18;Spain;175.26;68.0388
+Marc Vito;Girona FC;21;Spain;187.96;79.832192
+Montes;Girona FC;20;Spain;177.8;69.853168
+Víctor Gómez;RCD Espanyol;18;Spain;165.1;68.945984
